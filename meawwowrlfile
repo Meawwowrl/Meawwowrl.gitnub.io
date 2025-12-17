@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deal Finder (Test)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    .deal {
+      background: white;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 10px;
+      color: white;
+      background: #007bff;
+      padding: 8px 12px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Deal Finder (Test Site)</h1>
+  <p>This is just a test website.</p>
+
+  <div class="deal">
+    <h3>Sample Product 1</h3>
+    <p>Price: $19.99</p>
+    <a href="https://example.com" target="_blank">Get Deal</a>
+  </div>
+
+  <div class="deal">
+    <h3>Sample Product 2</h3>
+    <p>Price: $49.99</p>
+    <a href="https://google.com" target="_blank">Get Deal</a>
+  </div>
+
+</body>
+</html>
+create index.html
